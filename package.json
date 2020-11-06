@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-local",
+  "version": "1.0.0",
+  "description": "Local plugin support for eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmikecrowe/eslint-plugin-local.git"
+  },
+  "keywords": [
+    "eslint",
+    "plugin",
+    "local"
+  ],
+  "author": "Mike Crowe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drmikecrowe/eslint-plugin-local/issues"
+  },
+  "homepage": "https://github.com/drmikecrowe/eslint-plugin-local#readme"
+}
